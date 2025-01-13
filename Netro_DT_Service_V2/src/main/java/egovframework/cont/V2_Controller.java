@@ -8,6 +8,6 @@ public class V2_Controller {
 	
 	@GetMapping("/test")
 	public String getTestString() {
-		return "Trigger success!!";
+		return "Trigger success!!qqwe";
 	}
 }
